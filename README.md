@@ -9,13 +9,18 @@ Each player will begin with a story, outlining the background to the game.  The 
 
 With player continuing, the player will navigate through various choose your own adventure options.  Ideally this gets more and more complex, but possibly at first just has a few rough drafts of scenes.
 
-User will input strings, numbers, and booleans to advance through the game.
-
 ### Language(s) used:
 Based in JavaScript
 
 ### Ideal elements used in creating game:
 Garrett:
+User will input strings, numbers, and booleans to advance through the game.
+
+### Language(s) used:
+Based in javascript
+
+### Ideal elements used in creating game:
+Garrett: 
 
 Finding a way to either link to text files OR (even more ideally) link to one outside text file which directs to a specific set of text.  I think Python could do this but I never learned.
 

@@ -1,0 +1,8 @@
+Found this article on how to use git with multiple devs
+
+https://softwareengineering.stackexchange.com/questions/98580/whats-the-work-flow-with-2-people-on-a-project
+
+
+The above article refrences this as well
+
+http://nvie.com/posts/a-successful-git-branching-model/
